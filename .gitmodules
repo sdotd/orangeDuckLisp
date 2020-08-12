@@ -1,0 +1,6 @@
+[submodule "/Volumes/local_backup/git/orangeDuckLisp/mpc"]
+	path = /Volumes/local_backup/git/orangeDuckLisp/mpc
+	url = https://github.com/orangeduck/mpc
+[submodule "/Volumes/local_backup/git/orangeDuckLisp/tgc"]
+	path = /Volumes/local_backup/git/orangeDuckLisp/tgc
+	url = https://github.com/orangeduck/tgc
